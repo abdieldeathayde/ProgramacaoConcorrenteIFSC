@@ -50,15 +50,15 @@ public class Client implements Runnable {
 			}
 		} 
 	}
-			
+
 	@Override
 	public void run() {
-		try {
-			aSocket.close();
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
+		// TODO Auto-generated method stub
+		
 	}
+			
+	
+	
 
 	
 
